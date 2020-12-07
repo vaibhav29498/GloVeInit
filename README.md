@@ -1,5 +1,5 @@
 # GloVeInit
-Implementation of the GloVeInit model for SemEval-2020 Task 1: Unsupervised Lexical Semantic Change Detection. To be presented at the 2020 International Workshop on Semantic Evaluation. Preprint can be found on [arXiv](https://arxiv.org/abs/2007.05618).
+Implementation of the GloVeInit model for SemEval-2020 Task 1: Unsupervised Lexical Semantic Change Detection. To be presented at the 2020 International Workshop on Semantic Evaluation. Paper can be found on [ACL Anthology](https://www.aclweb.org/anthology/2020.semeval-1.25/).
 
 Run the following command to set the required permissions.
 ```
@@ -18,12 +18,15 @@ For example, use the following command to use the best-performing model as per t
 
 If you use this code in your work, kindly cite the following paper.
 ```
-@inproceedings{jain2020GVI,
-  title={GloVeInit at SemEval-2020 Task 1: Using GloVe Vector Initialization for Unsupervised Lexical Semantic Change Detection},
-  author={Vaibhav Jain}
-  booktitle = "Proceedings of the 14th International Workshop on Semantic Evaluation",
-  year = "2020",
-  address = "Barcelona, Spain",
-  publisher = "Association for Computational Linguistics"
+@inproceedings{jain-2020-gloveinit,
+    title = "{G}lo{V}e{I}nit at {S}em{E}val-2020 Task 1: Using {G}lo{V}e Vector Initialization for Unsupervised Lexical Semantic Change Detection",
+    author = "Jain, Vaibhav",
+    booktitle = "Proceedings of the Fourteenth Workshop on Semantic Evaluation",
+    month = dec,
+    year = "2020",
+    address = "Barcelona (online)",
+    publisher = "International Committee for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.semeval-1.25",
+    pages = "208--213"
 }
 ```
